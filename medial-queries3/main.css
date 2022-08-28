@@ -1,3 +1,7 @@
 body {
   background: peachpuff;
 }
+
+* {
+  border: 1px solid black;
+}
