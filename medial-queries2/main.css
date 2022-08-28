@@ -8,5 +8,48 @@ body {
 
 .container {
   display: flex;
-  
+  flex-direction: column;
+}
+
+.a {
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+}
+
+.b {
+  text-align: center;
+  padding: 20px;
+  height: 250px;
+  margin: 10px;
+}
+
+.c {
+  text-align: center;
+  padding: 20px;
+  flex-direction: row;
+  max-width: 300px;
+  margin: 10px;
+}
+
+.d {
+  text-align: center;
+  padding: 20px;
+  flex-direction: row;
+  max-width: 300px;
+  margin: 10px;
+}
+
+.e {
+  text-align: center;
+  padding: 20px;
+  flex-direction: row;
+  max-width: 300px;
+  margin: 10px;
+}
+
+.f {
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
 }
